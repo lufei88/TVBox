@@ -1,7 +1,5 @@
 {"spider":"./spider.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
-//提示
-"warningText":"💙路飞视频💙",
 "sites":
 	[{"key":"豆瓣","name":"路飞视频┃1.20🕟更新","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"云盘登录","name":"云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
@@ -28,7 +26,7 @@
 	{"key":"机器人","name":"路飞|机器","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"短剧网","name":"路飞|短剧","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"加速器","name":"路飞|加速","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
-	{"key":"酷影视","name":"路飞|酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+	{"key":"酷影视","name":"路飞|酷影","type":3,"api":"csp_AppYsV2","searchable":1，"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 	{"key":"三四八","name":"路飞|三四","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/三四八.json"},
 	{"key":"电影牛","name":"路飞|影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
 	{"key":"不开心","name":"路飞|开心","type":3,"api":"./JS/drpy.min.js","ext":"./JS/不开心.js"},
