@@ -1,5 +1,5 @@
 {"spider":"./spider.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
-"wallpaper":"https://api.likepoems.com/img/bing",
+"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":
 	[{"key":"豆瓣","name":"二〇二四","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"云盘登录","name":"云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
@@ -27,7 +27,7 @@
 	{"key":"短剧网","name":"短剧网","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"加速器","name":"加速器","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
 	{"key":"酷影视","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-	{"key":"三四八","name":"三四八","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/三四八.json"},
+	{"key":"三四八"，"name":"三四八","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/三四八.json"},
 	{"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
 	{"key":"不开心","name":"不开心","type":3,"api":"./JS/drpy.min.js","ext":"./JS/不开心.js"},
 	{"key":"爱奇艺","name":"爱奇艺","type":3,"api":"./JS/drpy.min.js","ext":"./JS/爱奇艺.js"},
